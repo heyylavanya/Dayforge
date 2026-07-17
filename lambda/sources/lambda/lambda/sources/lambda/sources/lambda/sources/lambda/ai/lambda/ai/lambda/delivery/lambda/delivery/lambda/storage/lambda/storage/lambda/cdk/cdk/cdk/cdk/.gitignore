@@ -1,0 +1,9 @@
+.env
+.env.local
+__pycache__/
+*.py[cod]
+cdk.out/
+node_modules/
+.venv/
+dist/
+.DS_Store
